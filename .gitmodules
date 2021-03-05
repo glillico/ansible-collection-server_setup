@@ -1,0 +1,27 @@
+[submodule "roles/configure_sshd"]
+	path = roles/configure_sshd
+	url = https://github.com/glillico/ansible-role-configure_sshd.git
+[submodule "roles/copy_etc_issue"]
+	path = roles/copy_etc_issue
+	url = https://github.com/glillico/ansible-role-copy_etc_issue.git
+[submodule "roles/configure_sudo"]
+	path = roles/configure_sudo
+	url = https://github.com/glillico/ansible-role-configure_sudo.git
+[submodule "roles/set_hostname"]
+	path = roles/set_hostname
+	url = https://github.com/glillico/ansible-role-set_hostname.git
+[submodule "roles/update_pkgs"]
+	path = roles/update_pkgs
+	url = https://github.com/glillico/ansible-role-update_pkgs.git
+[submodule "roles/install_fail2ban"]
+	path = roles/install_fail2ban
+	url = https://github.com/glillico/ansible-role-install_fail2ban.git
+[submodule "roles/auto_pkg_updates"]
+	path = roles/auto_pkg_updates
+	url = https://github.com/glillico/ansible-role-auto_pkg_updates.git
+[submodule "roles/setup_users"]
+	path = roles/setup_users
+	url = https://github.com/glillico/ansible-role-setup_users.git
+[submodule "roles/configure_firewall"]
+	path = roles/configure_firewall
+	url = https://github.com/glillico/ansible-role-configure_firewall.git
