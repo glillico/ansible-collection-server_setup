@@ -37,3 +37,6 @@
 [submodule "roles/sync_sudo"]
 	path = roles/sync_sudo
 	url = https://github.com/glillico/ansible-role-sync_sudo.git
+[submodule "roles/install_docker"]
+	path = roles/install_docker
+	url = https://github.com/glillico/ansible-role-install_docker.git
