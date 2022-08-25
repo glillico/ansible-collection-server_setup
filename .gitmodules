@@ -40,3 +40,12 @@
 [submodule "roles/install_docker"]
 	path = roles/install_docker
 	url = https://github.com/glillico/ansible-role-install_docker.git
+[submodule "roles/add_rm_pkgs"]
+	path = roles/add_rm_pkgs
+	url = https://github.com/glillico/ansible-role-add_rm_pkgs.git
+[submodule "roles/manage_selinux"]
+	path = roles/manage_selinux
+	url = https://github.com/glillico/ansible-role-manage_selinux.git
+[submodule "roles/setup_ssh_keys"]
+	path = roles/setup_ssh_keys
+	url = https://github.com/glillico/ansible-role-setup_ssh_keys.git
