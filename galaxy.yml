@@ -7,7 +7,7 @@ readme: README.md
 authors:
   - glillico
 
-description: your collection description
+description: Collection of server setup and configuration tools for Ansible.
 
 license:
   - MIT
@@ -17,7 +17,9 @@ tags:
   - configure
   - harden
   - linux
+  - raspberrypi
   - server
+  - setup
   - security
 
 dependencies: {}
